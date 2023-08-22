@@ -1,0 +1,9 @@
+class Speaker{
+static String speakerBrandName="GOVO";
+static boolean isConnected;
+public static void main(String speaker[]);
+System.out.println("main started");
+System.out.println("Spekaer connection status");
+System.out.println("Is speaker connected");
+System.out.println("main ended");
+}
